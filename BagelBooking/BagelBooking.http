@@ -1,0 +1,6 @@
+@BagelBooking_HostAddress = http://localhost:5186
+
+GET {{BagelBooking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
